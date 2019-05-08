@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/peters-birthdays/static/css/main.f894224c.chunk.css",
+    "main.js": "/peters-birthdays/static/js/main.8d690196.chunk.js",
+    "main.js.map": "/peters-birthdays/static/js/main.8d690196.chunk.js.map",
+    "runtime~main.js": "/peters-birthdays/static/js/runtime~main.ae29e23e.js",
+    "runtime~main.js.map": "/peters-birthdays/static/js/runtime~main.ae29e23e.js.map",
+    "static/js/2.3310f33a.chunk.js": "/peters-birthdays/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/peters-birthdays/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/peters-birthdays/index.html",
+    "precache-manifest.445b85db27b4f711fd58976380bd7c1c.js": "/peters-birthdays/precache-manifest.445b85db27b4f711fd58976380bd7c1c.js",
+    "service-worker.js": "/peters-birthdays/service-worker.js",
+    "static/css/main.f894224c.chunk.css.map": "/peters-birthdays/static/css/main.f894224c.chunk.css.map",
+    "static/media/logo.svg": "/peters-birthdays/static/media/logo.5d5d9eef.svg"
+  }
+}
